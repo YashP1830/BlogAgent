@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-openai
+langchain-core
+langchain-community
+pydantic
+python-dotenv
+tavily-python
+google-genai
